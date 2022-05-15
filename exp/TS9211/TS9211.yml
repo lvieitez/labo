@@ -27,7 +27,7 @@ param:
   train:
     periodos: [ ]
     rango:
-      desde:  201810
+      desde:  201910
       hasta:  202009
     excluir: [ 202006 ]
     undersampling: [ {clase: "CONTINUA", prob: 0.1 } ]
