@@ -1,6 +1,6 @@
 googlecloud:
-  RAM:   256
-  vCPU:    8
+  RAM:   512
+  vCPU:    16
   disk:  300
 
 
@@ -36,7 +36,7 @@ param:
   lag:   [ TRUE, TRUE, TRUE, FALSE, FALSE, FALSE ]
   delta: [ TRUE, TRUE, TRUE, FALSE, FALSE, FALSE ]
   deltap: [ TRUE, TRUE, TRUE, FALSE, FALSE, FALSE ]
-  canaritosratio: [ 0.3, 0.2, 0.1, 0, 0, 0 ]
+  canaritosratio: [ 0.3, 0.3, 0.3, 0, 0, 0 ]
 
   tony:  TRUE
 
