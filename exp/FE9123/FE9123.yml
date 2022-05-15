@@ -1,6 +1,6 @@
 googlecloud:
   RAM:   512
-  vCPU:    16
+  vCPU:    8
   disk:  300
 
 
