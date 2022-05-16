@@ -10,7 +10,7 @@ experiment:
   script: "src/completo/z921_TS_generico.r"
   restart: FALSE
   name: "exp"
-  requires: [ "FE9122" ]
+  requires: [ "FE9124" ]
 
 
 param:
